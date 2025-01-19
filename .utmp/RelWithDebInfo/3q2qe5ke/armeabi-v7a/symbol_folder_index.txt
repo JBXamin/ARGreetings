@@ -1,0 +1,1 @@
+G:\GreetingCard\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3q2qe5ke\obj\armeabi-v7a

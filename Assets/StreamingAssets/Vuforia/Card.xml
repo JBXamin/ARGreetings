@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="eraser" size="6.000000 3.993750" />
+    <ImageTarget name="card1" size="6.000000 3.774859" />
+  </Tracking>
+</QCARConfig>

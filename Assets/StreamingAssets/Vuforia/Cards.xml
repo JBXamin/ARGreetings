@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="darkbluemoderngeneralmanagerbusinesscard" size="6.000000 3.525896" />
+    <ImageTarget name="darkbluemodernrealestatebusinesscard" size="6.000000 3.525896" />
+    <ImageTarget name="blueblackelegantbusinesscard" size="6.000000 3.525896" />
+    <ImageTarget name="creativemodernbusinesscard" size="6.000000 3.525896" />
+    <ImageTarget name="greenillustrativefoodtruckbusinesscard" size="6.000000 3.525896" />
+  </Tracking>
+</QCARConfig>
